@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Anjil
+🎓 Student | 💻 Aspiring Software Developer
+🚀 Learning Flutter, React & AI
 
-<!--
-**anjil06/anjil06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
 
-Here are some ideas to get you started:
+Flutter & Dart
+Java & JavaScript
+React (Beginner)
+SQLite & Firebase (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📱 Projects
+🔹 Flutter Login App
+🔹 To-Do App
+🔹 Portfolio Website
+
+📊 GitHub Stats
+
+
+📫 Connect with me
+
+LinkedIn: your link
+Email: yourmail@gmail.com
+
