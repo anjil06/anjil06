@@ -21,5 +21,5 @@ SQLite & Firebase (Basics)
 📫 Connect with me
 
 LinkedIn: your link
-Email: yourmail@gmail.com
+Email: anjilreddy06.com
 
