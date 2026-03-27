@@ -22,5 +22,5 @@ SQLite & Firebase (Basics)
 📫 Connect with me
 
 LinkedIn: www.linkedin.com/in/m-anjil-reddy-670833348
-Email: anjilreddy062gmail.com
+Email: anjilreddy06@gmail.com
 
