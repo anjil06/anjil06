@@ -1,12 +1,12 @@
 👋 Hi, I'm Anjil
 🎓 Student | 💻 Aspiring Software Developer
-🚀 Learning Flutter, React & AI
+🚀 Learning Flutter, javascript
 
 🛠️ Skills
 
+python
 Flutter & Dart
 Java & JavaScript
-React (Beginner)
 SQLite & Firebase (Basics)
 
 
@@ -21,6 +21,6 @@ SQLite & Firebase (Basics)
 
 📫 Connect with me
 
-LinkedIn: your link
+LinkedIn: www.linkedin.com/in/m-anjil-reddy-670833348
 Email: anjilreddy06.com
 
