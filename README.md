@@ -12,8 +12,9 @@ SQLite & Firebase (Basics)
 
 📱 Projects
 🔹 Flutter Login App
-🔹 To-Do App
-🔹 Portfolio Website
+🔹 notes App
+🔹 Amazon application
+🔹 weather API 
 
 📊 GitHub Stats
 
